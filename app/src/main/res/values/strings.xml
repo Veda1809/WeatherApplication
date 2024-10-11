@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="OK">OK</string>
+    <string name="humidity">Humidity</string>
+    <string name="uv_index">UV index</string>
+    <string name="wind">Wind</string>
+    <string name="cloud">Cloud</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="chance_of_rain">Rain</string>
+    <string name="days_forecast">10 Days Forecast</string>
+    <string name="moderate_uv">Moderate UV</string>
+    <string name="high_uv">High UV</string>
+    <string name="low_uv">Low UV</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="moonrise">Moonrise</string>
+    <string name="moonset">Moonset</string>
+    <string name="daylight_hours">Daylight Hours</string>
+    <string name="no_internet_connection">No internet connection</string>
+</resources>
